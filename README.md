@@ -16,12 +16,13 @@ Run the notebook and observe the WandB dashboard.
 # Ship 🚢
 
 Add one of the following "extras" to the RAQA pipeline:
-Allow it to work with PDF files
-Implement a new distance metric
-Add metadata support to the vector database
-Make a simple diagram of the RAQA process
-Run the notebook
-Record a Loom walking through the notebook, the questions in the notebook, your addition, and a WandB trace.
+
+- Allow it to work with PDF files
+-Implement a new distance metric
+-Add metadata support to the vector database
+-Make a simple diagram of the RAQA process
+-Run the notebook
+-Record a Loom walking through the notebook, the questions in the notebook, your addition, and a WandB trace.
 
 # Share 🚀
 
