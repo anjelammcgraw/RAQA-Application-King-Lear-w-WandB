@@ -1,32 +1,18 @@
-# AIE1-W2D1
+# 🤖Retrieval Augmented Generation QA Application!
 
-Week 2 Day 1- Raqa Application 
-# 🔍Your First Retrieval Augmented Generation QA Application!
+In this repo, we'll be working through an example of how we can create, and then train, the original Transformer from the Attention is All You Need paper. This project was done during Week 2  of AI Makerspace's AI Engineering Cohort 1 (AIE1).
 
-Steps to Run:
+### ⚙️The code will be included in this repo.
 
-Create a Python 3.11 environment
-pip install jupyter so you can run the notebook
-pip install -r requirements.txt to install all the requirements
+### 🫂The video walkthrough can be found [here.](https://www.loom.com/share/304cab99660a45058faf3122080ddf9c?sid=540185af-4b48-4ad6-9cc9-b19911614fbb)
 
-# Build 🏗️
+# ⚙️The Build Process
 
-Run the notebook and observe the WandB dashboard.
+### Build the Model
+* Create a Python 3.11 environment
+* pip install jupyter so you can run the notebook
+* pip install -r requirements.txt to install all the requirements
+* create & observe the WandB dashboard
 
-# Ship 🚢
-
-Add one of the following "extras" to the RAQA pipeline:
-
-- Allow it to work with PDF files
--Implement a new distance metric
--Add metadata support to the vector database
--Make a simple diagram of the RAQA process
--Run the notebook
--Record a Loom walking through the notebook, the questions in the notebook, your addition, and a WandB trace.
-
-# Share 🚀
-
-Show your App in a loom video and explain the diagram
-Make a social media post about your final application and tag @AIMakerspace
-Share 3 lessons learned
-Share 3 lessons not learned
+### Extras
+Allow it to work with PDF files
