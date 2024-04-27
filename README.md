@@ -1,6 +1,6 @@
 # 🤖Retrieval Augmented Generation QA Application!
 
-In this repo, we'll be working through an example of how we can create, and then train, the original Transformer from the Attention is All You Need paper. This project was done during Week 2  of AI Makerspace's AI Engineering Cohort 1 (AIE1).
+In this repo, we'll be working through an example of how we can create, and then train, the original Transformer from the Attention is All You Need paper. 
 
 ### ⚙️The code will be included in this repo.
 
